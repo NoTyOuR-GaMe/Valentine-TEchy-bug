@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "LOVE, Priti Samadder!!!!!!!!!",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,36 +22,37 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "When my name drifts across your thoughts, does your heart merely notice… or does it linger?",                                    // First interaction
+            yesBtn: "It lingers.",                                             // Text for "Yes" button
+            noBtn: "It passes quietly.",                                               // Text for "No" button
+            secretAnswer: "It does not pass. It stays, softly and stubbornly."           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "If love were measured not in numbers, but in depth and devotion, how vast would yours be?",                          // For the love meter
+            startText: "Perhaps this much…!",                                   // Text before the percentage
+            nextBtn: "Let me confess further"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "When the fourteenth of February arrives, bathed in roses and borrowed promises, will you stand beside me — not as a moment, but as a meaning?🌹", // The big question!
+            yesBtn: "Yes, I will!",                                             // Text for "Yes" button
+            noBtn: "I am uncertain."                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "This is no longer affection...... this is eternity attempting to speaK!!!!!",  // Shows when they go past 5000%
+        high: "A love that refuses borders,
+that ignores gravity",              // Shows when they go past 1000%
+        normal: "Enough to alter the rhythm of my universe."                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay!",
+        message: "Then let this be the quiet beginning — not loud, not fleeting, but steady as breath and certain as dawn. Let the world fade into the background while we remain.",
+        emojis: "🌹✨❤️💫"  // These will bounce around
     },
 
     // Color scheme for the website
