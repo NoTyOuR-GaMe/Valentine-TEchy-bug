@@ -43,8 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "This is no longer affection...... this is eternity attempting to speaK!!!!!",  // Shows when they go past 5000%
-        high: "A love that refuses borders,
-that ignores gravity",              // Shows when they go past 1000%
+        high: "A love that refuses borders, that ignores gravity",              // Shows when they go past 1000%
         normal: "Enough to alter the rhythm of my universe."                           // Shows when they go past 100%
     },
 
